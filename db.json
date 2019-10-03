@@ -2,30 +2,25 @@
   "id": 1,
   "first_name": "Trueman",
   "last_name": "Bettenay",
-  "email": "tbettenay0@phpbb.com",
   "gender": "Male"
 }, {
   "id": 2,
   "first_name": "Sindee",
   "last_name": "Case",
-  "email": "scase1@google.ca",
   "gender": "Female"
 }, {
   "id": 3,
   "first_name": "Janaya",
   "last_name": "Blue",
-  "email": "jblue2@time.com",
   "gender": "Female"
 }, {
   "id": 4,
   "first_name": "Matthiew",
   "last_name": "Crossan",
-  "email": "mcrossan3@xing.com",
   "gender": "Male"
 }, {
   "id": 5,
   "first_name": "Norine",
   "last_name": "Gawkroge",
-  "email": "ngawkroge4@comsenz.com",
   "gender": "Female"
 }]
