@@ -1,3 +1,5 @@
+{
+  "users":
 [{
   "id": 1,
   "first_name": "Trueman",
@@ -8,19 +10,13 @@
   "first_name": "Sindee",
   "last_name": "Case",
   "gender": "Female"
-}, {
-  "id": 3,
-  "first_name": "Janaya",
-  "last_name": "Blue",
-  "gender": "Female"
-}, {
-  "id": 4,
-  "first_name": "Matthiew",
-  "last_name": "Crossan",
-  "gender": "Male"
-}, {
-  "id": 5,
-  "first_name": "Norine",
-  "last_name": "Gawkroge",
-  "gender": "Female"
-}]
+}],
+
+"comments": [
+  { 
+    "id": 1, "body": "some comment", "postId": 1 
+  },
+  { 
+    "id": 2, "body": "some comment", "postId": 1 
+  }]
+}
