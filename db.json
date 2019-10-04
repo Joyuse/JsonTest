@@ -4,13 +4,54 @@
   "id": 1,
   "first_name": "Trueman",
   "last_name": "Bettenay",
-  "gender": "Male"
+  "age": "23"
 }, {
   "id": 2,
   "first_name": "Sindee",
   "last_name": "Case",
-  "gender": "Female"
+  "age": "22"
+}, {
+  "id": 3,
+  "first_name": "Trueman",
+  "last_name": "Bettenay",
+  "age": "19"
+}, {
+  "id": 4,
+  "first_name": "Trueman",
+  "last_name": "Bettenay",
+  "age": "44"
+}, {
+  "id": 5,
+  "first_name": "Trueman",
+  "last_name": "Bettenay",
+  "age": "36"
+}, {
+  "id": 6,
+  "first_name": "Trueman",
+  "last_name": "Bettenay",
+  "age": "12"
+}, {
+  "id": 7,
+  "first_name": "Trueman",
+  "last_name": "Bettenay",
+  "age": "16"
+}, {
+  "id": 8,
+  "first_name": "Trueman",
+  "last_name": "Bettenay",
+  "age": "35"
+}, {
+  "id": 9,
+  "first_name": "Trueman",
+  "last_name": "Bettenay",
+  "age": "38"
+}, {
+  "id": 10,
+  "first_name": "Trueman",
+  "last_name": "Bettenay",
+  "age": "22"
 }],
+  
 
 "comments": [
   { 
