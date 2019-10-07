@@ -6,13 +6,15 @@
   "second_name": "Trueman Junior",
   "last_name": "Bettenay",
   "city": "Tomsk",
-  "age": "23"
+  "age": "23",
+  "url": "http://marmazov.ru/wp-content/uploads/2017/05/kotiki.jpg"
 }, {
   "id": 2,
   "first_name": "Sindee",
   "second_name": "Sindee Junior",
   "last_name": "Over",
   "city": "Tomsk",
+  "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuMrt3tkdfSwG5iLBL6ns0hRYynmKWcmVp9wZk6eXeR7W2HjMM",
   "age": "22"
 }, {
   "id": 3,
@@ -20,6 +22,7 @@
   "second_name": "Trueman Junior",
   "last_name": "Watch",
   "city": "Tomsk",
+  "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZX1F4KsD3N3WKVn70MR0GhsCOKoU8FNl_KqCSTXx3PacDFbwa" ,
   "age": "19"
 }, {
   "id": 4,
@@ -27,6 +30,7 @@
   "second_name": "Flaseman Junior",
   "last_name": "GitHub",
   "city": "Tomsk",
+  "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0GFzRsYn54JHNI_UgTdA0oT7qcRYWhqHTS9spTkKHgnlT_vsv" ,
   "age": "44"
 }, {
   "id": 5,
@@ -34,6 +38,7 @@
   "second_name": "Man Junior",
   "last_name": "Like a Noob",
   "city": "Tomsk",
+  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjzji4_YDfDGIT7PDXxf-LUwpy7_ESpfVdnlXJxp7PJau7To5QoQ",
   "age": "36"
 }, {
   "id": 6,
@@ -41,6 +46,7 @@
   "second_name": "Nani Junior",
   "last_name": "Like a Pro",
   "city": "Tomsk",
+  "url" : "https://www.edigitalagency.com.au/wp-content/uploads/anime-nature-scenery-girl-running-blue-sky-stars-hd-wallpaper-image-1920-x-1080-desktop.jpg" ,
   "age": "12"
 }, {
   "id": 7,
@@ -48,6 +54,7 @@
   "second_name": "Junior Junior",
   "last_name": "Junior",
   "city": "Tomsk",
+  "url" : "https://codepo8.github.io/canvas-images-and-pixels/img/horse.png" ,
   "age": "16"
 }, {
   "id": 8,
@@ -55,6 +62,7 @@
   "second_name": "Like Junior",
   "last_name": "LastName",
   "city": "Tomsk",
+  "url" : "https://minecraftart.netlify.com/example1.jpg" ,
   "age": "35"
 }, {
   "id": 9,
@@ -62,6 +70,7 @@
   "second_name": "Mike Junior",
   "last_name": "Vozovsky",
   "city": "Tomsk",
+  "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRxLun5ylfgZHOg-BzdzZ8JBhtUQoZ4fgkk4B5UoUNL6vz5fP" ,
   "age": "38"
 }, {
   "id": 10,
@@ -69,6 +78,7 @@
   "second_name": "Biba Junior",
   "last_name": "Bibov",
   "city": "Tomsk",
+  "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ktlwSh8RQGskNFUfNSyfHZYLe-Duiu8BgQMb3JEw9uLV7KpbmA" ,
   "age": "22"
 }],
   
