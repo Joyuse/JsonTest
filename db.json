@@ -101,5 +101,17 @@
   },
   { 
     "id": 6, "body": "BAD comment", "postId": 1 
+  },
+  { 
+    "id": 7, "body": "BAD comment", "postId": 1 
+  },
+  { 
+    "id": 8, "body": "BAD comment", "postId": 1 
+  },
+  { 
+    "id": 9, "body": "BAD comment", "postId": 1 
+  },
+  { 
+    "id": 10, "body": "BAD comment", "postId": 1 
   }]
 }
