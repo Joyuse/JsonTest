@@ -1,117 +1,189 @@
 {
-  "users":
-[{
-  "id": 1,
-  "first_name": "Trueman",
-  "second_name": "Trueman Junior",
-  "last_name": "Bettenay",
-  "city": "Tomsk",
-  "age": "23",
-  "url": "https://learnenglishkids.britishcouncil.org/sites/kids/files/image/RS2287_Rainbow%20col-low.jpg"
-}, {
-  "id": 2,
-  "first_name": "Sindee",
-  "second_name": "Sindee Junior",
-  "last_name": "Over",
-  "city": "Tomsk",
-  "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuMrt3tkdfSwG5iLBL6ns0hRYynmKWcmVp9wZk6eXeR7W2HjMM",
-  "age": "22"
-}, {
-  "id": 3,
-  "first_name": "Trueman",
-  "second_name": "Trueman Junior",
-  "last_name": "Watch",
-  "city": "Tomsk",
-  "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZX1F4KsD3N3WKVn70MR0GhsCOKoU8FNl_KqCSTXx3PacDFbwa" ,
-  "age": "19"
-}, {
-  "id": 4,
-  "first_name": "Flaseman",
-  "second_name": "Flaseman Junior",
-  "last_name": "GitHub",
-  "city": "Tomsk",
-  "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0GFzRsYn54JHNI_UgTdA0oT7qcRYWhqHTS9spTkKHgnlT_vsv" ,
-  "age": "44"
-}, {
-  "id": 5,
-  "first_name": "Man",
-  "second_name": "Man Junior",
-  "last_name": "Like a Noob",
-  "city": "Tomsk",
-  "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjzji4_YDfDGIT7PDXxf-LUwpy7_ESpfVdnlXJxp7PJau7To5QoQ",
-  "age": "36"
-}, {
-  "id": 6,
-  "first_name": "Nani",
-  "second_name": "Nani Junior",
-  "last_name": "Like a Pro",
-  "city": "Tomsk",
-  "url" : "https://www.edigitalagency.com.au/wp-content/uploads/anime-nature-scenery-girl-running-blue-sky-stars-hd-wallpaper-image-1920-x-1080-desktop.jpg" ,
-  "age": "12"
-}, {
-  "id": 7,
-  "first_name": "Junior",
-  "second_name": "Junior Junior",
-  "last_name": "Junior",
-  "city": "Tomsk",
-  "url" : "https://codepo8.github.io/canvas-images-and-pixels/img/horse.png" ,
-  "age": "16"
-}, {
-  "id": 8,
-  "first_name": "Liek",
-  "second_name": "Like Junior",
-  "last_name": "LastName",
-  "city": "Tomsk",
-  "url" : "https://minecraftart.netlify.com/example1.jpg" ,
-  "age": "35"
-}, {
-  "id": 9,
-  "first_name": "Mike",
-  "second_name": "Mike Junior",
-  "last_name": "Vozovsky",
-  "city": "Tomsk",
-  "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrRxLun5ylfgZHOg-BzdzZ8JBhtUQoZ4fgkk4B5UoUNL6vz5fP" ,
-  "age": "38"
-}, {
-  "id": 10,
-  "first_name": "Biba",
-  "second_name": "Biba Junior",
-  "last_name": "Bibov",
-  "city": "Tomsk",
-  "url" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2ktlwSh8RQGskNFUfNSyfHZYLe-Duiu8BgQMb3JEw9uLV7KpbmA" ,
-  "age": "22"
-}],
+  "page":1,
+  "per_page":6,
+  "total":12,
+  "total_pages":2,
+  "data":[
+    {
+      "id":1,
+      "email":"george.bluth@reqres.in",
+      "first_name":"George",
+      "last_name":"Bluth",
+      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/calebogden/128.jpg",
+      "full_data":[
+        {
+          "height" : 178,
+          "age" : 28,
+          "weight" : 89,
+          "nationality" : "Albanian"
+        }
+        ]
+    },
+    {
+      "id":2,
+      "email":"janet.weaver@reqres.in",
+      "first_name":"Janet",
+      "last_name":"Weaver",
+      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/josephstein/128.jpg",
+      "full_data":[
+        {
+          "height" : 199,
+          "age" : 18,
+          "weight" : 78,
+          "nationality" : "Jew"
+        }
+        ]
+    },
+    {
+      "id":3,
+      "email":"emma.wong@reqres.in",
+      "first_name":"Emma",
+      "last_name":"Wong",
+      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/olegpogodaev/128.jpg",
+      "full_data":[
+        {
+          "height" : 164,
+          "age" : 45,
+          "weight" : 60,
+          "nationality" : "German"
+        }
+        ]
+    },
+    {
+      "id":4,
+      "email":"eve.holt@reqres.in",
+      "first_name":"Eve",
+      "last_name":"Holt",
+      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/marcoramires/128.jpg",
+      "full_data":[
+        {
+          "height" : 193,
+          "age" : 25,
+          "weight" : 83,
+          "nationality" : "American"
+        }
+        ]
+    },
+    {
+      "id":5,
+      "email":"charles.morris@reqres.in",
+      "first_name":"Charles",
+      "last_name":"Morris",
+      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/stephenmoon/128.jpg",
+      "full_data":[
+        {
+          "height" : 123,
+          "age" : 45,
+          "weight" : 38,
+          "nationality" : "German"
+        }
+        ]
+    },
+    {
+      "id":6,
+      "email":"tracey.ramos@reqres.in",
+      "first_name":"Tracey",
+      "last_name":"Ramos",
+      "avatar":"https://s3.amazonaws.com/uifaces/faces/twitter/bigmancho/128.jpg",
+      "full_data":[
+        {
+          "height" : 198,
+          "age" : 26,
+          "weight" : 213,
+          "nationality" : "Chinese"
+        }
+        ]
+    },
+    {
+      "id": 7,
+      "email": "michael.lawson@reqres.in",
+      "first_name": "Michael",
+      "last_name": "Lawson",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/follettkyle/128.jpg",
+      "full_data":[
+        {
+          "height" : 132,
+          "age" : 18,
+          "weight" : 77,
+          "nationality" : "Japanese"
+        }
+        ]
+        },
+    {
+      "id": 8,
+      "email": "lindsay.ferguson@reqres.in",
+      "first_name": "Lindsay",
+      "last_name": "Ferguson",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/araa3185/128.jpg",
+      "full_data":[
+        {
+          "height" : 178,
+          "age" : 16,
+          "weight" : 130,
+          "nationality" : "Poland"
+        }
+        ]
+    },
+    {
+      "id": 9,
+      "email": "tobias.funke@reqres.in",
+      "first_name": "Tobias",
+      "last_name": "Funke",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/vivekprvr/128.jpg",
+      "full_data":[
+        {
+          "height" : 169,
+          "age" : 18,
+          "weight" : 85,
+          "nationality" : "Hispanic"
+        }
+        ]
+    },
+    {
+      "id": 10,
+      "email": "byron.fields@reqres.in",
+      "first_name": "Byron",
+      "last_name": "Fields",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/russoedu/128.jpg",
+      "full_data":[
+        {
+          "height" : 188,
+          "age" : 29,
+          "weight" : 79,
+          "nationality" : "Arab"
+        }
+        ]
+    },
+    {
+      "id": 11,
+      "email": "pavel.ussr@vodka.ussr",
+      "first_name": "George",
+      "last_name": "Ivanov",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/mrmoiree/128.jpg",
+      "full_data":[
+        {
+          "height" : 178,
+          "age" : 28,
+          "weight" : 89,
+          "nationality" : "USSR"
+        }
+        ]
+    },
+    {
+      "id": 12,
+      "email": "andrew.usser@pivo.ussr",
+      "first_name": "Andrew",
+      "last_name": "Leshenko",
+      "avatar": "https://s3.amazonaws.com/uifaces/faces/twitter/hebertialmeida/128.jpg",
+      "full_data":[
+        {
+          "height" : 178,
+          "age" : 28,
+          "weight" : 89,
+          "nationality" : "USSR"
+        }
+        ]
+    }
+    ]
   
-
-"comments": [
-  { 
-    "id": 1, "body": "GOOD comment", "postId": 1 
-  },
-  { 
-    "id": 2, "body": "BAD comment", "postId": 1 
-  },
-  { 
-    "id": 3, "body": "BAD comment", "postId": 1 
-  },
-  { 
-    "id": 4, "body": "BAD comment", "postId": 1 
-  },
-  { 
-    "id": 5, "body": "BAD comment", "postId": 1 
-  },
-  { 
-    "id": 6, "body": "BAD comment", "postId": 1 
-  },
-  { 
-    "id": 7, "body": "BAD comment", "postId": 1 
-  },
-  { 
-    "id": 8, "body": "BAD comment", "postId": 1 
-  },
-  { 
-    "id": 9, "body": "BAD comment", "postId": 1 
-  },
-  { 
-    "id": 10, "body": "BAD comment", "postId": 1 
-  }]
 }
