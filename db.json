@@ -2,70 +2,59 @@
   "id": 1,
   "first_name": "Trueman",
   "last_name": "Bettenay",
-  "email": "tbettenay0@phpbb.com",
-  "gender": "Male",
-  "ip_address": "83.22.58.191"
+  "email": "tbettenay0@phpbb.com"
 }, {
   "id": 2,
   "first_name": "Sindee",
   "last_name": "Case",
   "email": "scase1@google.ca",
-  "gender": "Female",
-  "ip_address": "105.211.96.21"
+  "gender": "Female"
 }, {
   "id": 3,
   "first_name": "Janaya",
   "last_name": "Blue",
   "email": "jblue2@time.com",
-  "gender": "Female",
-  "ip_address": "153.129.103.148"
+  "gender": "Female"
 }, {
   "id": 4,
   "first_name": "Matthiew",
   "last_name": "Crossan",
   "email": "mcrossan3@xing.com",
-  "gender": "Male",
-  "ip_address": "132.60.208.113"
+  "gender": "Male"
 }, {
   "id": 5,
   "first_name": "Norine",
   "last_name": "Gawkroge",
   "email": "ngawkroge4@comsenz.com",
-  "gender": "Female",
-  "ip_address": "164.154.36.180"
+  "gender": "Female"
 }, {
   "id": 6,
   "first_name": "Zerk",
   "last_name": "Macallam",
   "email": "zmacallam5@soup.io",
-  "gender": "Male",
-  "ip_address": "37.198.161.131"
+  "gender": "Male"
 }, {
   "id": 7,
   "first_name": "Maurizio",
   "last_name": "Dolby",
   "email": "mdolby6@arizona.edu",
-  "gender": "Male",
-  "ip_address": "98.162.231.61"
+  "gender": "Male"
 }, {
   "id": 8,
   "first_name": "Cathy",
   "last_name": "Gumb",
   "email": "cgumb7@squidoo.com",
-  "gender": "Female",
-  "ip_address": "97.129.86.248"
+  "gender": "Female"
 }, {
   "id": 9,
   "first_name": "Dore",
   "last_name": "Minerdo",
   "email": "dminerdo8@vinaora.com",
-  "gender": "Female",
-  "ip_address": "20.216.161.174"
+  "gender": "Female"
 }, {
   "id": 10,
   "first_name": "Winonah",
   "last_name": "Ruos",
   "email": "wruos9@bravesites.com",
-  "gender": "Female",
-  "ip_address": "125.185.193.42"
+  "gender": "Female"
 }]
