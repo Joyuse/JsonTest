@@ -7,54 +7,45 @@
   "id": 2,
   "first_name": "Sindee",
   "last_name": "Case",
-  "email": "scase1@google.ca",
-  "gender": "Female"
+  "email": "scase1@google.ca"
 }, {
   "id": 3,
   "first_name": "Janaya",
   "last_name": "Blue",
-  "email": "jblue2@time.com",
-  "gender": "Female"
+  "email": "jblue2@time.com"
 }, {
   "id": 4,
   "first_name": "Matthiew",
   "last_name": "Crossan",
-  "email": "mcrossan3@xing.com",
-  "gender": "Male"
+  "email": "mcrossan3@xing.com"
 }, {
   "id": 5,
   "first_name": "Norine",
   "last_name": "Gawkroge",
-  "email": "ngawkroge4@comsenz.com",
-  "gender": "Female"
+  "email": "ngawkroge4@comsenz.com"
 }, {
   "id": 6,
   "first_name": "Zerk",
   "last_name": "Macallam",
-  "email": "zmacallam5@soup.io",
-  "gender": "Male"
+  "email": "zmacallam5@soup.io"
 }, {
   "id": 7,
   "first_name": "Maurizio",
   "last_name": "Dolby",
-  "email": "mdolby6@arizona.edu",
-  "gender": "Male"
+  "email": "mdolby6@arizona.edu"
 }, {
   "id": 8,
   "first_name": "Cathy",
   "last_name": "Gumb",
-  "email": "cgumb7@squidoo.com",
-  "gender": "Female"
+  "email": "cgumb7@squidoo.com"
 }, {
   "id": 9,
   "first_name": "Dore",
   "last_name": "Minerdo",
-  "email": "dminerdo8@vinaora.com",
-  "gender": "Female"
+  "email": "dminerdo8@vinaora.com"
 }, {
   "id": 10,
   "first_name": "Winonah",
   "last_name": "Ruos",
-  "email": "wruos9@bravesites.com",
-  "gender": "Female"
+  "email": "wruos9@bravesites.com"
 }]
