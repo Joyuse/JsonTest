@@ -1,9 +1,10 @@
-[
-"user":
 {
+[
+"user": {
   "id": 1,
   "first_name": "Trueman",
   "last_name": "Bettenay",
   "email": "tbettenay0@phpbb.com"
-}
+	}
 ]
+}
