@@ -1,8 +1,12 @@
-{
-"user": {
-  "id": 1,
-  "first_name": "Trueman",
-  "last_name": "Bettenay",
-  "email": "tbettenay0@phpbb.com"
+{ 
+"links" :{
+	"default_avatar" : " https://previews.123rf.com/images/nexusby/nexusby1810/nexusby181000286/111362910-default-avatar-placeholder-profile-icon-male.jpg"
+	},
+	{
+	"default_name" : "Джон Доу",
+	},
+	{
+	"dafault_token" : "QWEasd123"
+	},
 	}
 }
